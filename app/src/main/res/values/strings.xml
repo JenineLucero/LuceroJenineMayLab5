@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LuceroJenineMayLab5</string>
+    <string name="titt">
+        National Museum
+    </string>
+    <string name="loccc">
+        Location: Padre Burgos Ave Ermita, Manila, Luzon 2004 Philippines
+    </string>
+    <string name="disss">
+        Distance from UST: 3.6 km
+    </string>
+
+    <string name="titt1">
+        Chinese Cemetery
+    </string>
+    <string name="loccc1">
+        Location: Aurora Boulevard, Manila, Luzon Philippines
+    </string>
+    <string name="disss1">
+        Distance from UST: 1.9 km
+    </string>
+
+    <string name="but">
+        Activity 1
+    </string>
+
+    <string name="buttt">
+        Activity 2
+    </string>
+
+    <string name="butt2">
+        Maps
+    </string>
+
+    <string name="headd">
+        Activity 1
+    </string>
+
+    <string name="headd1">
+        Activity 2
+    </string>
+</resources>
